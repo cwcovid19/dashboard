@@ -1,0 +1,84 @@
+<html>
+    <body style="background-color:powderblue;">
+<body>
+    
+    <header>
+<div class="container">
+  
+    <style>
+        .logo {
+            float: left;
+            padding: 10px 0;
+        }
+        
+        nav {
+            float: right;
+        }
+        
+        nav ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        
+        nav li {
+            display: inline-block;
+            margin-left: 70px;
+            padding-top: 25 px;
+            align-content: center;
+        }
+        
+        nav a {
+            color: #444;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-size: 20px;
+            
+         }
+    header
+        {
+            
+            background-color:#55d6aa
+        }
+        
+        header:after {
+            content: '';
+            display: table;
+            clear: both;
+        }
+    
+    </style>
+    
+    
+
+   <img src="download-2.png" height="45" width="45"  alt="logo" class="logo"> 
+    
+    <nav>
+ <ul>
+    <li><a href="index.html">Home</a> </li>
+    <li><a href="news.html">News</a> </li>   
+    <li><a href="contact.html">Contact</a> </li>   
+    <li><a href="about.html">About</a> </li>  
+    </ul>
+</nav>
+    
+</div>  
+    
+</header>
+  <h1 align="center">Page 2</h1>  
+     
+   
+  
+
+   
+    
+   
+</body>
+
+
+
+
+
+
+
+</html>
